@@ -1,10 +1,5 @@
 **NOTE: This plugin works only with Samsung TV's that have Tizen Operating System.**
 
-[![npm version](https://img.shields.io/npm/v/homebridge-samsung-tizen.svg)](https://www.npmjs.com/package/homebridge-samsung-tizen)
-[![Dependencies Status](https://img.shields.io/david/tavicu/homebridge-samsung-tizen.svg)](https://david-dm.org/tavicu/homebridge-samsung-tizen)
-[![Issues Status](https://img.shields.io/github/issues/tavicu/homebridge-samsung-tizen.svg)](https://github.com/tavicu/homebridge-samsung-tizen/issues)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QLCDRNH77Z9L&source=url)
-
 ***
 
 # homebridge-samsung-tizen
